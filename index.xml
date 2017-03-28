@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Northern Ireland Developer Conference</title>
-    <link>http://www.nidevconf.com/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <description>Recent content on Northern Ireland Developer Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.nidevconf.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mark Allan</title>
-      <link>http://www.nidevconf.com/speakers/markallan/</link>
+      <link>http://localhost:1313/speakers/markallan/</link>
       <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.nidevconf.com/speakers/markallan/</guid>
+      <guid>http://localhost:1313/speakers/markallan/</guid>
       <description>&lt;p&gt;Mark Allan is a freelancer based on the North Coast of Northern Ireland.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mark Allan</title>
-      <link>http://www.nidevconf.com/sessions/markallan/</link>
+      <link>http://localhost:1313/sessions/markallan/</link>
       <pubDate>Sat, 21 Mar 2015 16:03:09 -0400</pubDate>
       
-      <guid>http://www.nidevconf.com/sessions/markallan/</guid>
-      <description>&lt;p&gt;The goroutines and channels of golang have roots in Communicating Sequential Processes by C.A.R.Hoare (1978). Golang idioms and common usage tend to neglect some interesting channel and process based constructs. This talk starts by taking a look at some CSP and Pi-Calculus related papers, then explores two applications structured to use channels and goroutines intensively.&lt;/p&gt;
+      <guid>http://localhost:1313/sessions/markallan/</guid>
+      <description>&lt;p&gt;The natural evolution of Platform As A Service, Functions As A Service is the cornerstone of the new serverless paradigm. Learn how writing your code for &amp;ldquo;serverless&amp;rdquo; platforms allows you to develop naturally scalable and event-driven &amp;ldquo;nano-service&amp;rdquo; solutions. Write exactly the code you need, with infrastructure and scaling taken care of for you, built-in security and integrations and a pay-for-usage pricing model.&lt;/p&gt;
 </description>
     </item>
     

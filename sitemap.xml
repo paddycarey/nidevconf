@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.nidevconf.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2016-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nidevconf.com/speakers/markallan/</loc>
+    <loc>http://localhost:1313/speakers/markallan/</loc>
     <lastmod>2016-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nidevconf.com/sessions/markallan/</loc>
+    <loc>http://localhost:1313/sessions/markallan/</loc>
     <lastmod>2015-03-21T16:03:09-04:00</lastmod>
   </url>
   

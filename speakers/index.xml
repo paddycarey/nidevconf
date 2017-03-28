@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speakers-rsses on Northern Ireland Developer Conference</title>
-    <link>http://www.nidevconf.com/speakers/index.xml</link>
+    <link>http://localhost:1313/speakers/index.xml</link>
     <description>Recent content in Speakers-rsses on Northern Ireland Developer Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.nidevconf.com/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mark Allan</title>
-      <link>http://www.nidevconf.com/speakers/markallan/</link>
+      <link>http://localhost:1313/speakers/markallan/</link>
       <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.nidevconf.com/speakers/markallan/</guid>
+      <guid>http://localhost:1313/speakers/markallan/</guid>
       <description>&lt;p&gt;Mark Allan is a freelancer based on the North Coast of Northern Ireland.&lt;/p&gt;
 </description>
     </item>
