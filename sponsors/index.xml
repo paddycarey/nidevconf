@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors-rsses on Northern Ireland Developer Conference</title>
+    <link>http://localhost:1313/sponsors/index.xml</link>
+    <description>Recent content in Sponsors-rsses on Northern Ireland Developer Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Allstate NI</title>
+      <link>http://localhost:1313/sponsors/platinum/allstate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/platinum/allstate/</guid>
+      <description>&lt;p&gt;Allstate description.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PwC</title>
+      <link>http://localhost:1313/sponsors/platinum/pwc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/platinum/pwc/</guid>
+      <description>&lt;p&gt;PwC description.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

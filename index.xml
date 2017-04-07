@@ -6,26 +6,45 @@
     <description>Recent content on Northern Ireland Developer Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mark Allan</title>
-      <link>http://localhost:1313/speakers/markallan/</link>
-      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      <title>Allstate NI</title>
+      <link>http://localhost:1313/sponsors/platinum/allstate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/speakers/markallan/</guid>
-      <description>&lt;p&gt;Mark Allan is a freelancer based on the North Coast of Northern Ireland.&lt;/p&gt;
+      <guid>http://localhost:1313/sponsors/platinum/allstate/</guid>
+      <description>&lt;p&gt;Allstate description.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Mark Allan</title>
-      <link>http://localhost:1313/sessions/markallan/</link>
-      <pubDate>Sat, 21 Mar 2015 16:03:09 -0400</pubDate>
+      <title>Keynote: The Importance of DevOps – Lessons from the Industrial Revolution</title>
+      <link>http://localhost:1313/sessions/keynote1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sessions/markallan/</guid>
-      <description>&lt;p&gt;The natural evolution of Platform As A Service, Functions As A Service is the cornerstone of the new serverless paradigm. Learn how writing your code for &amp;ldquo;serverless&amp;rdquo; platforms allows you to develop naturally scalable and event-driven &amp;ldquo;nano-service&amp;rdquo; solutions. Write exactly the code you need, with infrastructure and scaling taken care of for you, built-in security and integrations and a pay-for-usage pricing model.&lt;/p&gt;
+      <guid>http://localhost:1313/sessions/keynote1/</guid>
+      <description>&lt;p&gt;A VC funded start-up led by a Belfast born native are set about to revolutionise communication between the financial centres of the world, but at the same time they have to pioneer new science, broker peace between two nations recently engaged in a bitter war, harness the power of the largest machine ever built. And do all this in a lean, agile way bringing fundamental researchers, engineering and live site operators together on the same boat on the same one-shot journey across previously uncharted waters. Oh yeah – and this happened 150 years ago. Find out what lessons we can learn today from the beginning of the first communications revolution of the industrial age.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Martin Woodward</title>
+      <link>http://localhost:1313/speakers/martinwoodward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/speakers/martinwoodward/</guid>
+      <description>&lt;p&gt;Martin Woodward is a Principal Program Manager at Microsoft and Vice-President of the .NET Foundation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PwC</title>
+      <link>http://localhost:1313/sponsors/platinum/pwc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/platinum/pwc/</guid>
+      <description>&lt;p&gt;PwC description.&lt;/p&gt;
 </description>
     </item>
     
