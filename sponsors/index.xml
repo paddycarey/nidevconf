@@ -10,20 +10,30 @@
     
     <item>
       <title>Allstate NI</title>
-      <link>http://localhost:1313/sponsors/platinum/allstate/</link>
+      <link>http://localhost:1313/sponsors/allstate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sponsors/platinum/allstate/</guid>
+      <guid>http://localhost:1313/sponsors/allstate/</guid>
       <description>&lt;p&gt;Allstate description.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>PwC</title>
-      <link>http://localhost:1313/sponsors/platinum/pwc/</link>
+      <title>Microsoft</title>
+      <link>http://localhost:1313/sponsors/microsoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sponsors/platinum/pwc/</guid>
+      <guid>http://localhost:1313/sponsors/microsoft/</guid>
+      <description>&lt;p&gt;Microsoft description.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PwC NI</title>
+      <link>http://localhost:1313/sponsors/pwc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/pwc/</guid>
       <description>&lt;p&gt;PwC description.&lt;/p&gt;
 </description>
     </item>

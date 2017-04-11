@@ -6,11 +6,19 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/sponsors/platinum/allstate/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/sessions/keynote1/</loc>
+    <loc>http://localhost:1313/code-of-conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tickets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sponsors/allstate/</loc>
   </url>
   
   <url>
@@ -18,7 +26,15 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/sponsors/platinum/pwc/</loc>
+    <loc>http://localhost:1313/sponsors/microsoft/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sponsors/pwc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sessions/keynote/</loc>
   </url>
   
 </urlset>

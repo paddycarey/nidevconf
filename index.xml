@@ -9,22 +9,195 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Allstate NI</title>
-      <link>http://localhost:1313/sponsors/platinum/allstate/</link>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sponsors/platinum/allstate/</guid>
-      <description>&lt;p&gt;Allstate description.&lt;/p&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;section class=&#34;row&#34;&gt;
+    &lt;div class=&#34;main-container&#34;&gt;
+        &lt;a id=&#34;top&#34;&gt;&lt;/a&gt;
+        &lt;main class=&#34;container generic&#34;&gt;
+            &lt;div class=&#34;col-md-12 main&#34;&gt;
+                &lt;h1&gt;The Northern Ireland Developer Conference 2017&lt;/h1&gt;
+                &lt;h3&gt;Why?&lt;/h3&gt;
+                &lt;p&gt;
+                    The software development scene in Northern Ireland has exploded over the past few years.
+                    Meetups have sprung up left, right and centre covering all sorts of weird and wonderful technologies, as well as all the old favourites.     
+                    What we&#39;ve discovered is that while attending meetups in areas you&#39;re already somewhat familiar with is great, you really learn and grow as a developer by looking outside your silo and seeing what goes on elsewhere.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    With that in mind, we decided it was time to put together a conference where all developers could come together and learn from each other, while at the same time celebrating the range of amazing work going on in Northern Ireland.
+                &lt;/p&gt;
+                &lt;h3&gt;Who?&lt;/h3&gt;
+                &lt;p&gt;
+                    Inquiring minds. We want to reach as many developers as possible, so we&#39;re aiming for content that&#39;ll be interesting and inspiring whether you&#39;re a student, a novice developer or an old hand. We&#39;re particularly keen to see devs from under-represented groups and will welcome everyone with open arms and a &lt;a class=&#34;subtle&#34; href=&#34;http://localhost:1313/code-of-conduct/&#34;&gt;code of conduct&lt;/a&gt;.
+                &lt;/p&gt;
+                &lt;h3&gt;What?&lt;/h3&gt;
+                &lt;p&gt;
+                    The core of the conference will of course be technical talks. We&#39;ll have speakers from around Northern Ireland speaking on as wide a range of technologies as we can, from security and devops to data and game dev. We&#39;re also fortunate enough to have Martin Woodward as a keynote speaker, a local luminary who was a prime mover behind Microsoft&#39;s move to embracing Open Source and Git.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    As well as talks, we&#39;ll have a number of other things going on. The exact details are still being hammered out, but will likely involve some live coding, panel or open space discussions, interactive exhibitor stands and &lt;a class=&#34;subtle&#34; href=&#34;mailto:info@nidevconf.com&#34;&gt;some other things suggested by the community&lt;/a&gt;.
+                &lt;/p&gt;
+                &lt;h3&gt;When?&lt;/h3&gt;
+                &lt;p&gt;
+                    Saturday June 10th, 2017. &lt;a class=&#34;subtle&#34; href=&#34;http://localhost:1313/2017/Northern_Ireland_Developer_Conference.ics&#34;&gt;Add to calendar &amp;raquo;&lt;/a&gt;
+                &lt;/p&gt;
+                &lt;h3&gt;Where?&lt;/h3&gt;
+                &lt;p&gt;
+                    &lt;a class=&#34;subtle&#34; href=&#34;https://goo.gl/maps/uGcbybNokdt&#34;&gt;The Peter Froggatt Centre, Queen&#39;s University Belfast &amp;raquo;&lt;/a&gt;
+                &lt;/p&gt;
+                &lt;h3&gt;See you there!&lt;/h3&gt;
+                &lt;p&gt;
+                    The committee:
+                    &lt;ul&gt;
+                        &lt;li&gt;&lt;a class=&#34;subtle&#34; href=&#34;http://flaxandteal.co.uk/&#34;&gt;Phil Weir&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a class=&#34;subtle&#34; href=&#34;http://www.martinnaughton.com/&#34;&gt;Martin Naughton&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a class=&#34;subtle&#34; href=&#34;https://twitter.com/JoanMcAleer&#34;&gt;Joan McAleer&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a class=&#34;subtle&#34; href=&#34;https://twitter.com/ruthyfrizzy&#34;&gt;Ruth Frizzell&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a class=&#34;subtle&#34; href=&#34;https://twitter.com/michealcolhoun/&#34;&gt;Micheal Colhoun&lt;/a&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;a class=&#34;subtle&#34; href=&#34;https://twitter.com/MarkXA&#34;&gt;Mark Allan&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
     <item>
-      <title>Keynote: The Importance of DevOps – Lessons from the Industrial Revolution</title>
-      <link>http://localhost:1313/sessions/keynote1/</link>
+      <title></title>
+      <link>http://localhost:1313/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sessions/keynote1/</guid>
-      <description>&lt;p&gt;A VC funded start-up led by a Belfast born native are set about to revolutionise communication between the financial centres of the world, but at the same time they have to pioneer new science, broker peace between two nations recently engaged in a bitter war, harness the power of the largest machine ever built. And do all this in a lean, agile way bringing fundamental researchers, engineering and live site operators together on the same boat on the same one-shot journey across previously uncharted waters. Oh yeah – and this happened 150 years ago. Find out what lessons we can learn today from the beginning of the first communications revolution of the industrial age.&lt;/p&gt;
+      <guid>http://localhost:1313/code-of-conduct/</guid>
+      <description>&lt;section class=&#34;row&#34;&gt;
+    &lt;div class=&#34;main-container&#34;&gt;
+        &lt;a id=&#34;top&#34;&gt;&lt;/a&gt;
+        &lt;main class=&#34;container generic&#34;&gt;
+            &lt;div class=&#34;col-md-12 main&#34;&gt;
+                &lt;h1&gt;Code of Conduct&lt;/h1&gt;
+                &lt;p&gt;All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following
+                    code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all
+                    participants to help ensure a safe environment for everybody.&lt;/p&gt;
+
+                &lt;h3&gt;Need Help?&lt;/h3&gt;
+
+                &lt;p&gt;You have our contact details in the emails we&amp;#39;ve sent.&lt;/p&gt;
+
+                &lt;h3&gt;The Quick Version&lt;/h3&gt;
+
+                &lt;p&gt;Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless
+                    of gender, gender identity and expression, age, sexual orientation, disability, physical appearance,
+                    body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment
+                    of conference participants in any form. Sexual language and imagery is not appropriate for any conference
+                    venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating
+                    these rules may be sanctioned or expelled from the conference &lt;em&gt;without a refund&lt;/em&gt; at the discretion
+                    of the conference organisers.&lt;/p&gt;
+
+                &lt;h3&gt;The Less Quick Version&lt;/h3&gt;
+
+                &lt;p&gt;Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual
+                    orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices,
+                    sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or
+                    recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome
+                    sexual attention.&lt;/p&gt;
+
+                &lt;p&gt;Participants asked to stop any harassing behavior are expected to comply immediately.&lt;/p&gt;
+
+                &lt;p&gt;Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised
+                    images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes,
+                    or otherwise create a sexualised environment.&lt;/p&gt;
+
+                &lt;p&gt;If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate,
+                    including warning the offender or expulsion from the conference with no refund.&lt;/p&gt;
+
+                &lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please
+                    contact a member of conference staff immediately. Conference staff can be identified as they&amp;#39;ll be
+                    wearing branded clothing and/or badges.&lt;/p&gt;
+
+                &lt;p&gt;Conference staff will be happy to help participants contact hotel/venue security or local law enforcement,
+                    provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the
+                    conference. We value your attendance.&lt;/p&gt;
+
+                &lt;p&gt;We expect participants to follow these rules at conference and workshop venues and conference-related social
+                    events.
+                &lt;/p&gt;
+
+                &lt;div class=&#34;footer&#34; style=&#34;margin-top:2em&#34;&gt;
+                    &lt;p&gt;&lt;small&gt;&lt;em&gt;Original source and credit: &lt;a class=&#34;subtle&#34; href=&#34;http://2012.jsconf.us/#/about&#34;&gt;http://2012.jsconf.us/#/about&lt;/a&gt; &amp;amp; &lt;a class=&#34;subtle&#34; href=&#34;http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy&#34;&gt;The Ada Initiative&lt;/a&gt;&lt;br&gt;
+
+                    Please help by translating or improving: &lt;a class=&#34;subtle&#34; href=&#34;https://github.com/leftlogic/confcodeofconduct.com&#34;&gt;http://github.com/leftlogic/confcodeofconduct.com&lt;/a&gt;&lt;br&gt;
+
+                    This work is licensed under a &lt;a rel=&#34;license&#34; class=&#34;subtle&#34; href=&#34;http://creativecommons.org/licenses/by/3.0/deed.en_US&#34;&gt;Creative Commons Attribution 3.0 Unported License&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tickets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tickets/</guid>
+      <description>&lt;section class=&#34;row&#34;&gt;
+    &lt;div class=&#34;main-container&#34;&gt;
+        &lt;a id=&#34;top&#34;&gt;&lt;/a&gt;
+        &lt;main class=&#34;container generic&#34;&gt;
+            &lt;div class=&#34;col-md-12 main&#34;&gt;
+                &lt;h1&gt;Tickets&lt;/h1&gt;
+                &lt;p&gt;
+                    &lt;a class=&#34;inner-link&#34; href=&#34;https://ti.to/nidc/nidc2017&#34;&gt;Buy your ticket now! &amp;raquo;&lt;/a&gt;
+                &lt;/p&gt;
+                &lt;h3&gt;How much are tickets?&lt;/h3&gt;
+                &lt;p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;&lt;strong&gt;Early Bird&lt;/strong&gt; (April) - &lt;strong&gt;£25&lt;/strong&gt; / £15 concession*&lt;/li&gt;
+                        &lt;li&gt;&lt;strong&gt;Late Bird&lt;/strong&gt; (1st May onwards) - &lt;strong&gt;£45&lt;/strong&gt; / £25 concession*&lt;/li&gt;
+                        &lt;li&gt;&lt;strong&gt;On The Day&lt;/strong&gt; (10th June): &lt;strong&gt;£50&lt;/strong&gt; / £30 concession*&lt;/li&gt;
+                    &lt;/ul&gt;
+                    *Concessionary prices are for students, unwaged etc.
+                &lt;/p&gt;
+&lt;!--                &lt;h3&gt;I&#39;d prefer a free ticket!&lt;/h3&gt;
+                &lt;p&gt;
+                    Simple.
+                    &lt;ol&gt;
+                        &lt;li&gt;&lt;a href=&#34;https://ti.to/nidc/nidc2017&#34;&gt;Buy a ticket&lt;/a&gt;. Take a note of the ticket number (it&#39;ll look
+                            something like &#34;AB0C-1&#34;).&lt;/li&gt;
+                        &lt;li&gt;Tell your friends and colleagues to use your ticket number as their referral code.&lt;/li&gt;
+                        &lt;li&gt;Every person that uses your ticket number gets 10% off. And you get 10% off too!&lt;/li&gt;
+                        &lt;li&gt;Refer 10 (or more) people and your ticket&#39;s free :)&lt;/lI&gt;
+                    &lt;/ol&gt;
+                    NB. All tickets will be charged at standard price. Total final discounts will be calculated and remitted once ticket sales are closed. The ticketing system isn&#39;t clever enough to do it at the time.
+                &lt;/p&gt; --&gt;
+                &lt;h3&gt;I&#39;d love to come but I can&#39;t afford it&lt;/h3&gt;
+                &lt;p&gt;
+                    We want you to come anyway! Choose an &#34;honesty&#34; ticket and just pay whatever you can afford.
+                &lt;/p&gt;
+                &lt;h3&gt;Great! Where do I get tickets?&lt;/h3&gt;
+                &lt;p&gt;
+                    &lt;a class=&#34;inner-link&#34; href=&#34;https://ti.to/nidc/nidc2017&#34;&gt;Here &amp;raquo;&lt;/a&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allstate NI</title>
+      <link>http://localhost:1313/sponsors/allstate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/allstate/</guid>
+      <description>&lt;p&gt;Allstate description.&lt;/p&gt;
 </description>
     </item>
     
@@ -39,12 +212,32 @@
     </item>
     
     <item>
-      <title>PwC</title>
-      <link>http://localhost:1313/sponsors/platinum/pwc/</link>
+      <title>Microsoft</title>
+      <link>http://localhost:1313/sponsors/microsoft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/sponsors/platinum/pwc/</guid>
+      <guid>http://localhost:1313/sponsors/microsoft/</guid>
+      <description>&lt;p&gt;Microsoft description.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PwC NI</title>
+      <link>http://localhost:1313/sponsors/pwc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/pwc/</guid>
       <description>&lt;p&gt;PwC description.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Importance of DevOps – Lessons from the Industrial Revolution</title>
+      <link>http://localhost:1313/sessions/keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sessions/keynote/</guid>
+      <description>&lt;p&gt;A VC funded start-up led by a Belfast born native are set about to revolutionise communication between the financial centres of the world, but at the same time they have to pioneer new science, broker peace between two nations recently engaged in a bitter war, harness the power of the largest machine ever built. And do all this in a lean, agile way bringing fundamental researchers, engineering and live site operators together on the same boat on the same one-shot journey across previously uncharted waters. Oh yeah – and this happened 150 years ago. Find out what lessons we can learn today from the beginning of the first communications revolution of the industrial age.&lt;/p&gt;
 </description>
     </item>
     
