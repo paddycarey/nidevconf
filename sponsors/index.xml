@@ -14,18 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/sponsors/allstate/</guid>
-      <description>&lt;p&gt;Allstate description.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft</title>
-      <link>http://localhost:1313/sponsors/microsoft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/sponsors/microsoft/</guid>
-      <description>&lt;p&gt;Microsoft description.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -34,8 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/sponsors/pwc/</guid>
-      <description>&lt;p&gt;PwC description.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
