@@ -9,12 +9,32 @@
     <atom:link href="http://localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Angie McKeown</title>
+      <link>http://localhost:1313/speakers/angiemckeown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/speakers/angiemckeown/</guid>
+      <description>&lt;p&gt;Angie has 18 years&amp;rsquo; experience in the tech industry and has founded 3 startups. She runs the NI Game Dev Network and is passionate about game development and roomscale VR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Martin Woodward</title>
       <link>http://localhost:1313/speakers/martinwoodward/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/speakers/martinwoodward/</guid>
       <description>&lt;p&gt;Martin is the Principal Group Program Manager for DevOps in Microsoft focussing on VS Team Services and Team Foundation Server. Before that Martin was Executive Director of the .NET Foundation helping drive Microsoft’s move to open source and prior to that he looked after the Java, Linux and Mac tooling in the Developer Division and while there helped introduce Git into Microsoft. He works for the Redmond team remotely, based out of a field in rural Northern Ireland.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paddy Carey</title>
+      <link>http://localhost:1313/speakers/paddycarey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/speakers/paddycarey/</guid>
+      <description>&lt;p&gt;Paddy is a Senior Engineer at ShopKeep in Belfast, leading a small team that focusses on meeting the complex reporting needs of merchants on the ShopKeep platform. Paddy is the organiser of a number of local meetups, trying to help increase collaboration and sharing within the local tech community. He can often be found in his shed late at night, trying to debug some ill-advised piece of code with his &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;rubber duck&lt;/a&gt; that, honestly, he probably should never have written in the first place.&lt;/p&gt;
 </description>
     </item>
     

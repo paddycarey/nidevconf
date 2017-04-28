@@ -9,12 +9,36 @@
     <atom:link href="http://localhost:1313/sessions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From Monolith to Microservices and back again. Twice.</title>
+      <link>http://localhost:1313/sessions/paddycarey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sessions/paddycarey/</guid>
+      <description>&lt;p&gt;The benefits of a microservice architecture to a growing organisation have been discussed by many, many people at conferences, in books, and on video. As an industry, we&amp;rsquo;re good at waxing lyrical about the gains in agility, productivity and reliability that such an architecture can provide. The problem is that very organisations get this right, certainly not the first time, and certainly not without some serious pain along the way.&lt;/p&gt;
+
+&lt;p&gt;At ShopKeep we&amp;rsquo;ve been down this road. We&amp;rsquo;ve tried, and failed, to break our monolith apart and move towards the wonderful world of microservice nirvana. This talk is an adventure in failure and eventual recovery. I explore the transitions we made, the reasons why, the bad decisions, and the silly mistakes we made along the way. It&amp;rsquo;s not hopeless, there is light at the end of the tunnel, and hope for a glorious microservicey future for all of us.&lt;/p&gt;
+
+&lt;p&gt;Sharing our experiences of failure helps us all to build better, more reliable systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Importance of DevOps – Lessons from the Industrial Revolution</title>
       <link>http://localhost:1313/sessions/keynote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/sessions/keynote/</guid>
       <description>&lt;p&gt;A VC funded start-up led by a Belfast born native are set about to revolutionise communication between the financial centres of the world, but at the same time they have to pioneer new science, broker peace between two nations recently engaged in a bitter war, harness the power of the largest machine ever built. And do all this in a lean, agile way bringing fundamental researchers, engineering and live site operators together on the same boat on the same one-shot journey across previously uncharted waters. Oh yeah – and this happened 150 years ago. Find out what lessons we can learn today from the beginning of the first communications revolution of the industrial age.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>http://localhost:1313/sessions/angiemckeown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sessions/angiemckeown/</guid>
+      <description>&lt;p&gt;Angie will be speaking about her experiences developing Virtual Reality games and applications. More detail to follow :)&lt;/p&gt;
 </description>
     </item>
     

@@ -22,6 +22,14 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/speakers/angiemckeown/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sessions/paddycarey/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/speakers/martinwoodward/</loc>
   </url>
   
@@ -30,11 +38,19 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/speakers/paddycarey/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/sponsors/pwc/</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/sessions/keynote/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sessions/angiemckeown/</loc>
   </url>
   
 </urlset>
